@@ -1,6 +1,8 @@
 # World Development Explorer Project
 by Joanne Choi
+
 DATA690: Statistical Analysis & Visualization with Python
+
 Dr. Jay Wang
 
 ## This folder contains the World Development Explorer project and related materials.
