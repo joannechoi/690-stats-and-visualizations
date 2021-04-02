@@ -1,0 +1,375 @@
+,Year,SE.ADT.1524.LT.ZS,SP.POP.TOTL,SE.PRM.AGES,Country Code,Country Name,Region,Income Group,Lending Type
+0,2011,46.9900512695,30117413.0,7,AFG,Afghanistan,South Asia,Low income,IDA
+1,2018,65.4205474854,37172386.0,7,AFG,Afghanistan,South Asia,Low income,IDA
+2,2011,98.7911911011,2905195.0,6,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+3,2012,99.2313995361,2900401.0,6,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+4,2018,99.3300018311,2866376.0,6,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+5,2018,97.4265213013,42228429.0,6,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+6,2014,77.4311294556,26941779.0,6,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+7,2011,99.6282424927,41261490.0,6,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+8,2012,99.375869751,41733271.0,6,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+9,2013,99.551322937,42202935.0,6,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+10,2014,99.2967071533,42669500.0,6,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+11,2015,99.5597000122,43131966.0,6,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+12,2016,99.5027084351,43590368.0,6,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+13,2018,99.5055236816,44494502.0,6,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+14,2011,99.8473968506,2876538.0,6,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+15,2017,99.8470230103,2944809.0,6,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+16,2018,99.5,105845.0,6,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+17,2011,99.9440994263,9173082.0,6,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+18,2012,99.9367523193,9295784.0,6,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+19,2013,99.9524688721,9416801.0,6,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+20,2014,99.956993103,9535079.0,6,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+21,2015,99.942779541,9649341.0,6,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+22,2016,99.9404830933,9757812.0,6,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+23,2017,99.9380493164,9854033.0,6,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+24,2016,99.4803085327,1425791.0,6,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+25,2017,99.5982208252,1494074.0,6,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+26,2018,99.6872024536,1569439.0,6,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+27,2011,77.984992981,149273778.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+28,2012,77.8329086304,151007807.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+29,2013,85.5271530151,152764676.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+30,2014,85.5547332764,154520167.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+31,2015,87.8887710571,156256276.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+32,2016,92.2426528931,157970840.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+33,2017,92.9507598877,159670593.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+34,2018,93.2964401245,161356039.0,6,BGD,Bangladesh,South Asia,Lower middle income,IDA
+35,2014,99.9000015259,284825.0,5,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+36,2018,99.8499984741,9483499.0,6,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+37,2012,52.4924697876,9729248.0,6,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+38,2018,60.9480781555,11485048.0,6,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+39,2012,86.0590133667,701583.0,6,BTN,Bhutan,South Asia,Lower middle income,IDA
+40,2017,93.0906295776,745568.0,6,BTN,Bhutan,South Asia,Lower middle income,IDA
+41,2011,99.007522583,10212954.0,6,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+42,2012,98.995880127,10377676.0,6,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+43,2015,99.3991699219,10869730.0,6,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+44,2011,99.462310791,3661175.0,6,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+45,2013,99.6624298096,3542605.0,6,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+46,2013,97.4562911987,2062536.0,6,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+47,2011,98.4869232178,197514534.0,7,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+48,2012,98.6196594238,199287296.0,7,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+49,2013,98.7366790771,201035903.0,6,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+50,2014,98.8456878662,202763735.0,6,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+51,2015,98.9637527466,204471769.0,6,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+52,2016,99.1109619141,206163058.0,6,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+53,2017,99.1554107666,207833831.0,6,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+54,2018,99.2041702271,209469333.0,6,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+55,2011,99.3667678833,393688.0,6,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+56,2018,99.7089385986,428962.0,6,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+57,2011,97.8650512695,7348328.0,7,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+58,2014,50.0962982178,17586017.0,6,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+59,2018,58.2900009155,19751535.0,6,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+60,2014,79.5596084595,9844297.0,7,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+61,2017,88.2217712402,10827024.0,7,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+62,2012,98.1289672852,505235.0,6,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+63,2015,98.1113128662,524743.0,6,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+64,2014,90.1418685913,15274503.0,6,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+65,2015,92.2123565674,15521436.0,6,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+66,2018,85.0800018311,25216237.0,6,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+67,2018,38.2686500549,4666377.0,6,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+68,2015,38.7724189758,14110975.0,6,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+69,2016,30.7916107178,14561666.0,6,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+70,2011,99.4081878662,17233576.0,6,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+71,2013,99.0482788086,17571507.0,6,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+72,2015,99.3539428711,17969353.0,6,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+73,2017,99.0086593628,18470439.0,6,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+74,2018,99.7835998535,1392730000.0,6,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+75,2011,98.2393798828,45662747.0,6,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+76,2014,98.5409469604,46967706.0,6,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+77,2015,98.5347290039,47520667.0,6,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+78,2016,98.6683120728,48175048.0,6,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+79,2018,98.8516464233,49661056.0,6,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+80,2012,71.5812683105,723871.0,6,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+81,2018,78.2703933716,832322.0,6,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+82,2012,83.5975494385,69020747.0,6,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+83,2016,84.9895095825,78789127.0,6,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+84,2011,80.9139480591,4394844.0,6,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+85,2018,82.0547866821,5244363.0,6,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+86,2011,99.1336975098,4633086.0,6,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+87,2018,99.4300003052,4999441.0,6,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+88,2012,48.3099594116,21547188.0,6,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+89,2014,53.020690918,22647683.0,6,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+90,2018,58.4201507568,25069229.0,6,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+91,2011,99.7236328125,4280622.0,7,HRV,Croatia,Europe & Central Asia,High income,IBRD
+92,2012,99.8746490479,11257101.0,6,CUB,Cuba,Latin America & Caribbean ,Upper middle income,Not classified
+93,2011,99.8209915161,1124833.0,6,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+94,2016,99.7858810425,10566332.0,6,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+95,2011,97.0420532227,9813210.0,6,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+96,2012,97.0238876343,9930911.0,6,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+97,2013,97.4724273682,10048224.0,6,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+98,2014,97.6885299683,10165178.0,6,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+99,2015,97.6140594482,10281680.0,6,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+100,2016,98.8394088745,10397743.0,6,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+101,2011,98.6948394775,15243883.0,6,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+102,2012,98.8316268921,15474102.0,6,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+103,2013,98.604637146,15707474.0,6,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+104,2014,99.0977706909,15951838.0,6,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+105,2015,99.1261978149,16212020.0,6,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+106,2016,99.0571136475,16491115.0,6,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+107,2017,99.2550506592,16785361.0,6,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+108,2012,89.2819213867,86422240.0,6,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+109,2013,92.0234222412,88404640.0,6,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+110,2017,88.1925582886,96442593.0,6,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+111,2011,96.5450897217,6210568.0,7,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+112,2013,97.2241897583,6266070.0,7,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+113,2015,97.9493331909,6325124.0,7,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+114,2016,98.0085906982,6356143.0,7,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+115,2017,97.9804534912,6388122.0,7,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+116,2018,97.9737167358,6420744.0,7,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+117,2011,99.9488983154,1327439.0,7,EST,Estonia,Europe & Central Asia,High income,Not classified
+118,2018,95.469367981,1136191.0,6,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+119,2017,72.7548217773,106400024.0,7,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+120,2017,99.7443389893,877459.0,6,FJI,Fiji,East Asia & Pacific,Upper middle income,Blend
+121,2012,88.5041427612,1749682.0,6,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+122,2018,89.7836608887,2119275.0,6,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+123,2013,60.7779006958,1963711.0,7,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+124,2015,67.1613769531,2085860.0,7,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+125,2014,99.7026062012,3719414.0,6,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+126,2017,99.6408081055,3728004.0,6,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+127,2018,92.4909667969,29767108.0,6,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+128,2011,98.8148574829,11104899.0,6,GRC,Greece,Europe & Central Asia,High income,Not classified
+129,2018,99.1600036621,10732882.0,6,GRC,Greece,Europe & Central Asia,High income,Not classified
+130,2014,99.1999969482,108902.0,5,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+131,2012,93.6534729004,14781942.0,7,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+132,2013,91.8519210815,15043981.0,7,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+133,2014,94.3542480469,15306316.0,7,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+134,2014,46.2950515747,11150977.0,7,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+135,2014,60.4023513794,1692439.0,6,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+136,2014,96.689666748,763380.0,6,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+137,2016,82.9942474365,10839970.0,6,HTI,Haiti,Latin America & Caribbean ,Low income,IDA
+138,2011,95.9250030518,8480671.0,6,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+139,2012,94.9809494019,8640691.0,6,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+140,2013,95.0664901733,8798521.0,6,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+141,2014,95.6770706177,8955589.0,6,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+142,2015,96.0075073242,9112916.0,6,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+143,2016,96.1265411377,9270795.0,6,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+144,2018,96.515838623,9587522.0,6,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+145,2014,98.8000030518,9866468.0,7,HUN,Hungary,Europe & Central Asia,High income,Not classified
+146,2011,86.1448822021,1250288729.0,6,IND,India,South Asia,Lower middle income,IBRD
+147,2018,91.6640396118,1352617328.0,6,IND,India,South Asia,Lower middle income,IBRD
+148,2011,98.7779998779,245116206.0,7,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+149,2014,99.6802215576,255129004.0,7,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+150,2015,99.6700668335,258383256.0,7,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+151,2016,99.6688079834,261554226.0,7,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+152,2018,99.7070770264,267663435.0,7,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+153,2012,98.0143966675,75539862.0,6,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+154,2013,97.7772979736,76481943.0,6,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+155,2014,97.9378662109,77465753.0,6,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+156,2016,98.101348877,79564016.0,6,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD
+157,2012,83.5,31890011.0,6,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+158,2013,80.8000030518,33157050.0,6,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+159,2014,88.8000030518,34411951.0,6,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+160,2016,90.9000015259,36610632.0,6,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+161,2017,93.5,37552781.0,6,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+162,2011,99.8596420288,59379449.0,6,ITA,Italy,Europe & Central Asia,High income,Not classified
+163,2018,99.9300003052,60421760.0,6,ITA,Italy,Europe & Central Asia,High income,Not classified
+164,2014,96.3000030518,2875136.0,6,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+165,2011,99.1486816406,7663131.0,6,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+166,2012,99.10572052,8090872.0,6,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+167,2018,99.3437423706,9956011.0,6,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+168,2018,99.8973617554,18276498.5,7,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+169,2014,86.5256271362,46699981.0,6,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+170,2018,87.8300018311,51393010.0,6,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+171,2012,98.7822570801,3348853.0,6,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+172,2013,99.1537475586,3526376.0,6,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+173,2015,99.2590866089,3835591.0,6,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+174,2017,99.2435836792,4056099.0,6,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+175,2018,99.0801315308,4137312.0,6,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+176,2018,99.75,6322800.0,7,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+177,2011,72.0562286377,6347567.0,6,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+178,2015,92.462638855,6741164.0,6,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+179,2011,99.8354263306,2059709.0,7,LVA,Latvia,Europe & Central Asia,High income,Not classified
+180,2018,99.8199996948,1927174.0,7,LVA,Latvia,Europe & Central Asia,High income,Not classified
+181,2018,99.7518234253,6848925.0,6,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+182,2014,86.6322021484,2043437.0,6,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+183,2017,55.3987007141,4702228.0,6,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+184,2011,99.855796814,3028115.0,7,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+185,2011,99.6728973389,550832.0,6,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+186,2016,99.7987365723,612836.0,6,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+187,2012,76.8291625977,22346641.0,6,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+188,2018,81.1983718872,26262368.0,6,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+189,2014,76.0819091797,16289540.0,6,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+190,2015,72.9356079102,16745303.0,6,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+191,2016,97.6144714355,30684804.0,6,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+192,2017,97.2725601196,31105028.0,6,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+193,2018,96.8503265381,31528585.0,6,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+194,2014,99.2683792114,435015.0,6,MDV,Maldives,South Asia,Upper middle income,IDA
+195,2016,98.7536468506,475513.0,6,MDV,Maldives,South Asia,Upper middle income,IDA
+196,2011,42.0952796936,15514591.0,7,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+197,2015,49.3665313721,17438778.0,7,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+198,2018,50.1347007751,19077690.0,7,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+199,2011,98.881942749,416268.0,5,MLT,Malta,Middle East & North Africa,High income,Not classified
+200,2018,99.3007125854,484630.0,5,MLT,Malta,Middle East & North Africa,High income,Not classified
+201,2011,98.4587783813,56531.0,6,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,IDA
+202,2017,63.9478111267,4282574.0,6,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+203,2011,98.1303482056,1252404.0,5,MUS,Mauritius,Sub-Saharan Africa ,High income,IBRD
+204,2018,99.0420303345,1265303.0,5,MUS,Mauritius,Sub-Saharan Africa ,High income,IBRD
+205,2011,98.461769104,115695473.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+206,2012,98.8754196167,117274155.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+207,2013,98.5644989014,118827161.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+208,2014,99.000038147,120355128.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+209,2015,98.9447097778,121858258.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+210,2016,99.1162033081,123333376.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+211,2017,99.1246871948,124777324.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+212,2018,99.3184509277,126190788.0,6,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+213,2012,99.456161499,2859458.0,7,MDA,Moldova,Europe & Central Asia,Lower middle income,IBRD
+214,2014,99.8110122681,2856950.0,7,MDA,Moldova,Europe & Central Asia,Lower middle income,IBRD
+215,2018,98.6299972534,3170208.0,6,MNG,Mongolia,East Asia & Pacific,Lower middle income,IBRD
+216,2011,99.2118225098,620079.0,6,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+217,2018,99.1100006104,622227.0,6,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+218,2011,81.5100708008,32781850.0,6,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+219,2012,91.2209625244,33241898.0,6,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+220,2018,97.7300033569,36029138.0,6,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+221,2015,70.525100708,27042002.0,6,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+222,2017,70.9124526978,28649007.0,6,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+223,2016,84.751159668,53045226.0,5,MMR,Myanmar,East Asia & Pacific,Lower middle income,IDA
+224,2011,94.4194412231,2156701.0,7,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+225,2018,95.1649017334,2448255.0,7,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+226,2011,84.7571487427,27041437.0,5,NPL,Nepal,South Asia,Lower middle income,IDA
+227,2018,92.3938064575,28087871.0,5,NPL,Nepal,South Asia,Lower middle income,IDA
+228,2014,99.1999969482,268050.0,6,NCL,New Caledonia,East Asia & Pacific,High income,Not classified
+229,2015,91.5717773438,6223240.0,6,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+230,2012,39.7877311707,17795191.0,7,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+231,2018,43.4599990845,22442948.0,7,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+232,2018,75.0287475586,195874740.0,6,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+233,2014,98.5999984741,2077775.0,6,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+234,2014,99.0943222046,4027260.0,6,OMN,Oman,Middle East & North Africa,High income,Not classified
+235,2015,99.1537322998,4267348.0,6,OMN,Oman,Middle East & North Africa,High income,Not classified
+236,2016,98.7035598755,4479219.0,6,OMN,Oman,Middle East & North Africa,High income,Not classified
+237,2017,98.662437439,4665935.0,6,OMN,Oman,Middle East & North Africa,High income,Not classified
+238,2018,98.6178283691,4829483.0,6,OMN,Oman,Middle East & North Africa,High income,Not classified
+239,2011,70.7693328857,183340592.0,5,PAK,Pakistan,South Asia,Lower middle income,Blend
+240,2012,72.5834197998,187281475.0,5,PAK,Pakistan,South Asia,Lower middle income,Blend
+241,2013,71.6362228394,191262919.0,5,PAK,Pakistan,South Asia,Lower middle income,Blend
+242,2014,72.7954025269,195306825.0,5,PAK,Pakistan,South Asia,Lower middle income,Blend
+243,2017,74.5263824463,207896686.0,5,PAK,Pakistan,South Asia,Lower middle income,Blend
+244,2013,99.8383789062,17606.0,6,PLW,Palau,East Asia & Pacific,High income,IBRD
+245,2015,98.6644363403,17665.0,6,PLW,Palau,East Asia & Pacific,High income,IBRD
+246,2018,99.0990905762,4176873.0,6,PAN,Panama,Latin America & Caribbean ,High income,IBRD
+247,2012,98.1779174805,6421512.0,6,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+248,2013,98.8991317749,6510276.0,6,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+249,2014,98.7137985229,6599526.0,6,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+250,2015,98.6536026001,6688746.0,6,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+251,2016,98.4505996704,6777872.0,6,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+252,2018,98.2815170288,6956071.0,6,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+253,2012,98.6981582642,29506788.0,6,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+254,2014,98.9775314331,30090359.0,6,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+255,2015,99.0095367432,30470734.0,6,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+256,2016,98.8834915161,30926032.0,6,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+257,2017,99.0574798584,31444297.0,6,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+258,2018,99.0237579346,31989256.0,6,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+259,2013,98.1083526611,98871552.0,6,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+260,2015,99.0826034546,102113212.0,6,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+261,2011,99.4351196289,10557560.0,6,PRT,Portugal,Europe & Central Asia,High income,Not classified
+262,2018,99.6639175415,10283822.0,6,PRT,Portugal,Europe & Central Asia,High income,Not classified
+263,2017,92.389831543,3325286.0,6,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+264,2011,94.609413147,2035871.0,6,QAT,Qatar,Middle East & North Africa,High income,Not classified
+265,2012,93.9443588257,2196074.0,6,QAT,Qatar,Middle East & North Africa,High income,Not classified
+266,2013,91.7935791016,2336574.0,6,QAT,Qatar,Middle East & North Africa,High income,Not classified
+267,2014,93.6445236206,2459198.0,6,QAT,Qatar,Middle East & North Africa,High income,Not classified
+268,2016,95.4636535645,2654374.0,6,QAT,Qatar,Middle East & North Africa,High income,Not classified
+269,2017,94.6441116333,2724724.0,6,QAT,Qatar,Middle East & North Africa,High income,Not classified
+270,2011,98.9956893921,20147528.0,7,ROU,Romania,Europe & Central Asia,High income,IBRD
+271,2018,99.4291915894,19472545.0,6,ROU,Romania,Europe & Central Asia,High income,IBRD
+272,2018,99.6984481812,144477860.0,7,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+273,2012,82.3307495117,10549678.0,7,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+274,2014,85.0662384033,11083635.0,7,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+275,2018,86.492767334,12301939.0,7,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+276,2011,99.2356567383,187469.0,5,WSM,Samoa,East Asia & Pacific,Upper middle income,IDA
+277,2018,99.1234817505,196130.0,5,WSM,Samoa,East Asia & Pacific,Upper middle income,IDA
+278,2018,100.0,33785.0,6,SMR,San Marino,Europe & Central Asia,High income,Not classified
+279,2012,96.7384033203,188404.0,6,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+280,2018,97.7825469971,211028.0,6,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+281,2013,99.2217712402,30052518.0,6,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+282,2017,99.3018798828,33099147.0,6,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+283,2011,65.7805099487,13033809.0,6,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+284,2013,56.9430084229,13782420.0,6,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+285,2017,69.4784088135,15419381.0,6,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+286,2011,99.3086929321,7234099.0,7,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+287,2016,99.7198181152,7058322.0,7,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+288,2018,99.0699996948,96762.0,6,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+289,2013,57.0221290588,6863980.0,6,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+290,2018,66.6485977173,7650154.0,6,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+291,2011,99.8871994019,5183688.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+292,2012,99.8949432373,5312437.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+293,2013,99.8986129761,5399162.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+294,2014,99.9004669189,5469724.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+295,2015,99.7848968506,5535002.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+296,2016,99.9265823364,5607283.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+297,2017,99.9304428101,5612253.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+298,2018,99.9296264648,5638676.0,6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+299,2014,99.8000030518,2061980.0,6,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+300,2011,98.7896575928,52004172.0,7,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+301,2012,98.8820419312,52834005.0,7,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+302,2014,98.8822784424,54545991.0,7,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+303,2015,98.9557800293,55386367.0,7,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+304,2017,95.3238220215,57000451.0,7,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+305,2018,47.9009590149,10975920.0,6,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+306,2011,99.6994018555,46742697.0,6,ESP,Spain,Europe & Central Asia,High income,Not classified
+307,2012,99.6727828979,46773055.0,6,ESP,Spain,Europe & Central Asia,High income,Not classified
+308,2013,99.6692581177,46620045.0,6,ESP,Spain,Europe & Central Asia,High income,Not classified
+309,2014,99.7227630615,46480882.0,6,ESP,Spain,Europe & Central Asia,High income,Not classified
+310,2015,99.6556777954,46444832.0,6,ESP,Spain,Europe & Central Asia,High income,Not classified
+311,2016,99.6221618652,46484062.0,6,ESP,Spain,Europe & Central Asia,High income,Not classified
+312,2018,99.7155532837,46797754.0,6,ESP,Spain,Europe & Central Asia,High income,Not classified
+313,2016,98.6889877319,21203000.0,5,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+314,2017,98.8564605713,21444000.0,5,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+315,2018,98.7819366455,21670000.0,5,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+316,2018,73.0,41801533.0,6,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+317,2012,97.6679000854,541247.0,6,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+318,2018,98.6455612183,575987.0,6,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+319,2014,99.9000015259,8252833.0,7,TJK,Tajikistan,Europe & Central Asia,Low income,IDA
+320,2012,85.9400024414,47052481.0,7,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+321,2015,85.7551422119,51482633.0,7,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+322,2013,98.3138809204,68144501.0,6,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+323,2015,98.1466293335,68714511.0,6,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+324,2018,98.1371688843,69428524.0,6,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+325,2018,83.5390319824,1267972.0,6,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,Blend
+326,2011,79.8859100342,6595943.0,6,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+327,2015,84.2901077271,7323158.0,6,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+328,2011,99.4370269775,103562.0,5,TON,Tonga,East Asia & Pacific,Upper middle income,IDA
+329,2018,99.441116333,103197.0,6,TON,Tonga,East Asia & Pacific,Upper middle income,IDA
+330,2011,97.3044433594,10741880.0,6,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+331,2012,96.8649978638,10847002.0,6,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+332,2014,96.2090988159,11063201.0,6,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+333,2011,98.7093505859,73443863.0,6,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+334,2012,99.0160217285,74653016.0,6,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+335,2013,99.227432251,75928564.0,6,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+336,2014,99.3584823608,77231907.0,6,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+337,2015,99.494392395,78529409.0,6,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+338,2016,99.6213607788,79821724.0,6,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+339,2017,99.750869751,81101892.0,6,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+340,2014,99.8000030518,5466328.0,6,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+341,2012,83.6588821411,34559168.0,6,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+342,2018,89.3963088989,42723139.0,6,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+343,2012,99.9697570801,45593342.0,6,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+344,2015,99.4300003052,9262900.0,6,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+345,2011,98.8622207642,3368934.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+346,2012,98.9552536011,3378974.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+347,2013,98.9297637939,3389439.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+348,2014,98.8388900757,3400434.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+349,2015,98.9275970459,3412009.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+350,2016,99.1524734497,3424132.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+351,2017,98.9326019287,3436646.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+352,2018,98.8802719116,3449299.0,6,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+353,2013,100.0,30243200.0,7,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+354,2014,99.999961853,30757700.0,7,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+355,2015,99.999961853,31298900.0,7,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+356,2016,100.0,31847900.0,7,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+357,2018,99.9999389648,32956100.0,7,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+358,2014,95.3000030518,263888.0,6,VUT,Vanuatu,East Asia & Pacific,Lower middle income,IDA
+359,2018,96.282119751,292680.0,6,VUT,Vanuatu,East Asia & Pacific,Lower middle income,IDA
+360,2011,97.5591583252,28888369.0,6,VEN,"Venezuela, RB",Latin America & Caribbean ,Upper middle income,IBRD
+361,2015,99.0076293945,30081829.0,6,VEN,"Venezuela, RB",Latin America & Caribbean ,Upper middle income,IBRD
+362,2016,98.7595062256,29846179.0,6,VEN,"Venezuela, RB",Latin America & Caribbean ,Upper middle income,IBRD
+363,2018,98.4080963135,95540395.0,6,VNM,Vietnam,East Asia & Pacific,Lower middle income,IBRD
+364,2011,99.3123168945,3882986.0,6,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+365,2012,99.2873306274,3979998.0,6,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+366,2013,99.3483276367,4076708.0,6,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+367,2014,99.3635101318,4173398.0,6,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+368,2015,99.3406066895,4270092.0,6,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+369,2016,99.3837127686,4367088.0,6,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+370,2018,99.3362503052,4569087.0,6,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+371,2018,92.0915679932,17351822.0,7,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+372,2011,90.9307022095,12894316.0,6,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+373,2014,90.4281234741,13586681.0,6,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
